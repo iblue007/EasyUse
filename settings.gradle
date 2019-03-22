@@ -1,0 +1,1 @@
+include ':app',':build-gradle', ':demo1', ':baselib'
